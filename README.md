@@ -28,11 +28,6 @@ The facial expression recognition model is based on a Convolutional Neural Netwo
 
 ### Pretrained model
 A pretrained model refers to a model that has been trained on a large dataset for a specific task, such as image classification, object detection etc. In this project we used **VGG16** model as a feature extractor.
-## Usage
-1. Install the required dependencies: `pip install -r requirements.txt`.
-2. Preprocess the dataset: Use `src/data_preprocessing.py` to preprocess the dataset (resizing, normalization, augmentation, etc.).
-3. Train the model: Run `src/train_model.py` to train the CNN model using the preprocessed data.
-4. Evaluate the model: Use `src/evaluate_model.py` to evaluate the trained model on a test set and generate performance metrics.
 
 ## Results
 - The project achieves promising results in terms of accuracy and generalization performance.
