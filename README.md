@@ -16,13 +16,6 @@ Link: https://www.kaggle.com/datasets/sanidhyak/human-face-emotions
 - Matplotlib
 - imgaug
 
-## Project Structure
-- `data/`: Contains the dataset used for training and testing.
-- `notebooks/`: Jupyter notebooks for data exploration, model development, and evaluation.
-- `src/`: Python scripts for preprocessing, model training, and inference.
-- `models/`: Pre-trained models or saved models.
-- `results/`: Results and evaluation metrics.
-
 ## Model Architecture
 The facial expression recognition model is based on a Convolutional Neural Network (CNN) architecture.
 
