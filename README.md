@@ -22,6 +22,3 @@ The facial expression recognition model is based on a Convolutional Neural Netwo
 ### Pretrained model
 A pretrained model refers to a model that has been trained on a large dataset for a specific task, such as image classification, object detection etc. In this project we used **VGG16** model as a feature extractor.
 
-## Results
-- The project achieves promising results in terms of accuracy and generalization performance.
-- Detailed evaluation metrics and performance analysis are provided in the directory.
